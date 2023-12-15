@@ -1,4 +1,4 @@
-![logo](https://github.com/aftabalam507/aftabalam507/blob/main/Github-Banner.jpg)
+![logo](https://github.com/aftabalam507/aftabalam507/blob/main/Github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Aftab Alam</h1>
 <h3 align="center">I'm currently working as a java developer <img alt="coding" width="40" src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif?raw=true"/></h3>
